@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: The-soft
+Version: 1.0.4
+Summary: Sophisticated organizer for thoughtful
+Home-page: https://github.com/Greezli439/my_little_assistant
+Author: Python Mode
+Author-email: flyingcircus@example.com
+License: MIT
+License-File: LICENSE
